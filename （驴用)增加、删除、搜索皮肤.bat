@@ -1,0 +1,2 @@
+node manageSkins.js
+pause
